@@ -1,7 +1,7 @@
 ---
 name: Byun JiWoon
 username: jiwoon
-bio: "Hi I a John, a Web Designer."
+bio: "Hi I a 변, a Web Designer. 리서련슈퍼빵댕이"
 site: 
 avatar: 
 email: 
