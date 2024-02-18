@@ -1,10 +1,10 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
-avatar: johndoe.png
-email: mail@johndoe.com
+name: Byun JiWoon
+username: jiwoon
+bio: "Hi I a John, a Web Designer."
+site: 
+avatar: 
+email: 
 social:
     - title: "github"
       url: "https://github.com/johndoe"
