@@ -1,7 +1,7 @@
 ---
-name: Sujay Kundu
-username: xplor4r
-bio: "Full Stack Web Developer, based in Bangalore, India"
+name: 변빵빵
+username: 변
+bio: "머선일이고!!"
 site: https://sujaykundu.com
 avatar: xplor4r.png
 email: mail@sujaykundu.com
