@@ -1,39 +1,21 @@
 ---
 layout: post
-title:  "Flutter? vs Compose?!"
-summary: "flutter? Compose?"
+title:  "todo list"
+summary: ""
 author: byunjiwoon
-date: '2023-05-22 14:35:23 +0530'
+date: '2024-02-19 00:00:00 +0530'
 category: flutter
-thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
-permalink: /blog/welcome-to-devlopr-jekyll/
-usemathjax: true
+thumbnail: 
+keywords: 
+permalink: 
+usemathjax: true 
 ---
 
+todo
+---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+-  광고성푸시 기업 약관 수정 remote api 로 받도록
+-  GA4 이슈 원인 파악
+-  기업 로그인 타임아웃 4시간 -> 1시간30분 앱작업 있는지 체크  
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-
-{% endhighlight %}
-
-or
-
-```javascript
-var a = 1;
-var b = 2;
-function sum (num1,num2){
-  return num1+num2;
-}
-var result = sum(a,b);
-```
 
