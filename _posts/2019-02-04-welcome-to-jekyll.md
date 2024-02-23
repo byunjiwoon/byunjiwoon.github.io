@@ -4,7 +4,7 @@ title:  "제네릭 (무공변성, 공변성, 반공변성)"
 summary: ""
 author: byunjiwoon
 date: '2024-02-19 00:00:00 +0530'
-category: flutter
+category: kotlin
 thumbnail: 
 keywords: 
 permalink: 
@@ -56,10 +56,12 @@ class Cage<T> {
 
 }
 
-```
-
 Cage<Bird>, Cage<Eagle> 가 서로 상속관계라고 생각할 수 있지만
 서로 아무 관계도 아니다!
+
+
+```
+
 Cage는 무공변, 불공변하다 라고 표현할 수 있다
 
 
